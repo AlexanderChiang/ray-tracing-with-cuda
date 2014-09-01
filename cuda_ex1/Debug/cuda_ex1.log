@@ -1,5 +1,19 @@
-﻿  Compiling CUDA source file Source.cu...
-  
-  E:\documents\visual studio 2013\Projects\cuda_ex1\cuda_ex1>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\bin\nvcc.exe" -gencode=arch=compute_20,code=\"sm_20,compute_20\" --use-local-env --cl-version 2013 -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\include"  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile -cudart static  -g   -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MDd  " -o Debug\Source.cu.obj "E:\documents\visual studio 2013\Projects\cuda_ex1\cuda_ex1\Source.cu" 
-  Source.cu
-  cuda_ex1.vcxproj -> E:\documents\visual studio 2013\Projects\cuda_ex1\Debug\cuda_ex1.exe
+﻿Build started 8/31/2014 10:37:09 PM.
+     1>Project "D:\Users\Alex\Documents\Visual Studio 2013\Projects\ray-tracing-with-cuda\cuda_ex1\cuda_ex1.vcxproj" on node 2 (Build target(s)).
+     1>AddCudaCompileDeps:
+         D:\Secondary Program Files\VisualStudio2013\VC\bin\cl.exe /E /nologo /showIncludes /TP /D__CUDACC__ /D_MBCS /I"D:\Secondary Program Files\Visual Leak Detector\include" /I"D:\Secondary Program Files\NVIDIA\CUDA\include" /I"D:\Secondary Program Files\NVIDIA\CUDA\bin" /I"D:\Secondary Program Files\NVIDIA\CUDA\include" /I. /FIcuda_runtime.h /c "D:\Users\Alex\Documents\Visual Studio 2013\Projects\ray-tracing-with-cuda\cuda_ex1\Source.cu" 
+       CudaBuild:
+         Compiling CUDA source file Source.cu...
+         cmd.exe /C "D:\Users\Alex\AppData\Local\Temp\tmpd1eba204f35e46e381188a7c9ac64d0a.cmd"
+         "D:\Secondary Program Files\NVIDIA\CUDA\bin\nvcc.exe" -gencode=arch=compute_20,code=\"sm_20,compute_20\" --use-local-env --cl-version 2013 -ccbin "D:\Secondary Program Files\VisualStudio2013\VC\bin"  -I"D:\Secondary Program Files\Visual Leak Detector\include" -I"D:\Secondary Program Files\NVIDIA\CUDA\include" -I"D:\Secondary Program Files\NVIDIA\CUDA\include"  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile -cudart static  -g   -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MDd  " -o Debug\Source.cu.obj "D:\Users\Alex\Documents\Visual Studio 2013\Projects\ray-tracing-with-cuda\cuda_ex1\Source.cu"
+         
+         D:\Users\Alex\Documents\Visual Studio 2013\Projects\ray-tracing-with-cuda\cuda_ex1>"D:\Secondary Program Files\NVIDIA\CUDA\bin\nvcc.exe" -gencode=arch=compute_20,code=\"sm_20,compute_20\" --use-local-env --cl-version 2013 -ccbin "D:\Secondary Program Files\VisualStudio2013\VC\bin"  -I"D:\Secondary Program Files\Visual Leak Detector\include" -I"D:\Secondary Program Files\NVIDIA\CUDA\include" -I"D:\Secondary Program Files\NVIDIA\CUDA\include"  -G   --keep-dir Debug -maxrregcount=0  --machine 32 --compile -cudart static  -g   -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MDd  " -o Debug\Source.cu.obj "D:\Users\Alex\Documents\Visual Studio 2013\Projects\ray-tracing-with-cuda\cuda_ex1\Source.cu" 
+         Source.cu
+       Link:
+         D:\Secondary Program Files\VisualStudio2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\Alex\Documents\Visual Studio 2013\Projects\ray-tracing-with-cuda\Debug\cuda_ex1.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Secondary Program Files\NVIDIA\CUDA\lib\Win32" cuda.lib cudart.lib cudart_static.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users\Alex\Documents\Visual Studio 2013\Projects\ray-tracing-with-cuda\Debug\cuda_ex1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\Alex\Documents\Visual Studio 2013\Projects\ray-tracing-with-cuda\Debug\cuda_ex1.lib" /MACHINE:X86 Debug\Source.cu.obj
+         cuda_ex1.vcxproj -> D:\Users\Alex\Documents\Visual Studio 2013\Projects\ray-tracing-with-cuda\Debug\cuda_ex1.exe
+     1>Done Building Project "D:\Users\Alex\Documents\Visual Studio 2013\Projects\ray-tracing-with-cuda\cuda_ex1\cuda_ex1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.03

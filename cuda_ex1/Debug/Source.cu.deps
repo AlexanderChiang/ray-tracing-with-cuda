@@ -1,321 +1,321 @@
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\include\cuda_runtime.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_config.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\sal.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\ConcurrencySal.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\vadefs.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\builtin_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\limits.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stddef.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\builtin_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\channel_descriptor.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\cuda_runtime_api.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\builtin_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\cuda_device_runtime_api.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\cuda_runtime_api.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_functions.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\builtin_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_functions.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\builtin_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\common_functions.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\builtin_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\time.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\wtime.inl
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\time.inl
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\math_functions.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\builtin_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cmath
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\yvals.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xkeycheck.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\use_ansi.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xtgmath.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xtr1common
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cstdlib
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\cuda_surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\builtin_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\channel_descriptor.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\cuda_texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\builtin_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\channel_descriptor.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_functions.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\builtin_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\sm_11_atomic_functions.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\builtin_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\sm_12_atomic_functions.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\builtin_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\sm_13_double_functions.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\builtin_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\sm_20_atomic_functions.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\builtin_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\sm_32_atomic_functions.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\builtin_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\sm_35_atomic_functions.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\sm_32_atomic_functions.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\sm_20_intrinsics.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\builtin_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\sm_30_intrinsics.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\builtin_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\sm_32_intrinsics.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\builtin_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\sm_35_intrinsics.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\sm_32_intrinsics.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_functions.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\builtin_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\cuda_surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_functions.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_fetch_functions.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\builtin_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\cuda_texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_functions.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_indirect_functions.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\builtin_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_functions.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_indirect_functions.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\builtin_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\driver_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\surface_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\texture_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\host_defines.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_functions.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\device_launch_parameters.h
-c:\program files\nvidia gpu computing toolkit\cuda\v6.5\include\vector_types.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\swprintf.inl
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\iostream
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\istream
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\ostream
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\ios
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xlocnum
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\climits
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cstdio
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\streambuf
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xiosbase
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xlocale
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cstring
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdexcept
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\exception
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xstddef
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cstddef
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\initializer_list
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\eh.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\malloc.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xstring
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xmemory0
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\limits
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\ymath.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cfloat
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\float.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtwrn.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cwchar
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\wchar.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\new
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xutility
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\utility
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\iosfwd
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdbg.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\type_traits
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xrefwrap
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xatomic0.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\intrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\setjmp.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\immintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\wmmintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\nmmintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\smmintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\tmmintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\pmmintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\emmintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xmmintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\mmintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\ammintrin.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\mm3dnow.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\typeinfo
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xlocinfo
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xlocinfo.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\ctype.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\locale.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xdebug
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\xfacet
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\system_error
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\cerrno
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\errno.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\crtdefs.h
-C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\share.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\include\cuda.h
-C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\include\cuda_runtime.h
+D:\Secondary Program Files\NVIDIA\CUDA\include\cuda_runtime.h
+d:\secondary program files\nvidia\cuda\include\host_config.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\crtdefs.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\sal.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\ConcurrencySal.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\vadefs.h
+d:\secondary program files\nvidia\cuda\include\builtin_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\limits.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\crtdefs.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\stddef.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\crtdefs.h
+d:\secondary program files\nvidia\cuda\include\surface_types.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\texture_types.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\builtin_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\surface_types.h
+d:\secondary program files\nvidia\cuda\include\texture_types.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+d:\secondary program files\nvidia\cuda\include\channel_descriptor.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\cuda_runtime_api.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+d:\secondary program files\nvidia\cuda\include\builtin_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\surface_types.h
+d:\secondary program files\nvidia\cuda\include\texture_types.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\cuda_device_runtime_api.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\cuda_runtime_api.h
+d:\secondary program files\nvidia\cuda\include\driver_functions.h
+d:\secondary program files\nvidia\cuda\include\builtin_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\surface_types.h
+d:\secondary program files\nvidia\cuda\include\texture_types.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+d:\secondary program files\nvidia\cuda\include\vector_functions.h
+d:\secondary program files\nvidia\cuda\include\builtin_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\surface_types.h
+d:\secondary program files\nvidia\cuda\include\texture_types.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\common_functions.h
+d:\secondary program files\nvidia\cuda\include\builtin_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\surface_types.h
+d:\secondary program files\nvidia\cuda\include\texture_types.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\string.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\crtdefs.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\time.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\crtdefs.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\wtime.inl
+D:\Secondary Program Files\VisualStudio2013\VC\include\time.inl
+d:\secondary program files\nvidia\cuda\include\math_functions.h
+d:\secondary program files\nvidia\cuda\include\builtin_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\surface_types.h
+d:\secondary program files\nvidia\cuda\include\texture_types.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\math.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\crtdefs.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\stdlib.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\crtdefs.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\cmath
+D:\Secondary Program Files\VisualStudio2013\VC\include\yvals.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\xkeycheck.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\crtdefs.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\use_ansi.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\math.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\xtgmath.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\xtr1common
+D:\Secondary Program Files\VisualStudio2013\VC\include\cstdlib
+d:\secondary program files\nvidia\cuda\include\cuda_surface_types.h
+d:\secondary program files\nvidia\cuda\include\builtin_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\surface_types.h
+d:\secondary program files\nvidia\cuda\include\texture_types.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\channel_descriptor.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+d:\secondary program files\nvidia\cuda\include\surface_types.h
+d:\secondary program files\nvidia\cuda\include\cuda_texture_types.h
+d:\secondary program files\nvidia\cuda\include\builtin_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\surface_types.h
+d:\secondary program files\nvidia\cuda\include\texture_types.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\channel_descriptor.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+d:\secondary program files\nvidia\cuda\include\texture_types.h
+d:\secondary program files\nvidia\cuda\include\device_functions.h
+d:\secondary program files\nvidia\cuda\include\builtin_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\surface_types.h
+d:\secondary program files\nvidia\cuda\include\texture_types.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+d:\secondary program files\nvidia\cuda\include\sm_11_atomic_functions.h
+d:\secondary program files\nvidia\cuda\include\builtin_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\surface_types.h
+d:\secondary program files\nvidia\cuda\include\texture_types.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+d:\secondary program files\nvidia\cuda\include\sm_12_atomic_functions.h
+d:\secondary program files\nvidia\cuda\include\builtin_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\surface_types.h
+d:\secondary program files\nvidia\cuda\include\texture_types.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+d:\secondary program files\nvidia\cuda\include\sm_13_double_functions.h
+d:\secondary program files\nvidia\cuda\include\builtin_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\surface_types.h
+d:\secondary program files\nvidia\cuda\include\texture_types.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+d:\secondary program files\nvidia\cuda\include\sm_20_atomic_functions.h
+d:\secondary program files\nvidia\cuda\include\builtin_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\surface_types.h
+d:\secondary program files\nvidia\cuda\include\texture_types.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+d:\secondary program files\nvidia\cuda\include\sm_32_atomic_functions.h
+d:\secondary program files\nvidia\cuda\include\builtin_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\surface_types.h
+d:\secondary program files\nvidia\cuda\include\texture_types.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+d:\secondary program files\nvidia\cuda\include\sm_35_atomic_functions.h
+d:\secondary program files\nvidia\cuda\include\sm_32_atomic_functions.h
+d:\secondary program files\nvidia\cuda\include\sm_20_intrinsics.h
+d:\secondary program files\nvidia\cuda\include\builtin_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\surface_types.h
+d:\secondary program files\nvidia\cuda\include\texture_types.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+d:\secondary program files\nvidia\cuda\include\sm_30_intrinsics.h
+d:\secondary program files\nvidia\cuda\include\builtin_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\surface_types.h
+d:\secondary program files\nvidia\cuda\include\texture_types.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+d:\secondary program files\nvidia\cuda\include\sm_32_intrinsics.h
+d:\secondary program files\nvidia\cuda\include\builtin_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\surface_types.h
+d:\secondary program files\nvidia\cuda\include\texture_types.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+d:\secondary program files\nvidia\cuda\include\sm_35_intrinsics.h
+d:\secondary program files\nvidia\cuda\include\sm_32_intrinsics.h
+d:\secondary program files\nvidia\cuda\include\surface_functions.h
+d:\secondary program files\nvidia\cuda\include\builtin_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\surface_types.h
+d:\secondary program files\nvidia\cuda\include\texture_types.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\cuda_surface_types.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+d:\secondary program files\nvidia\cuda\include\surface_types.h
+d:\secondary program files\nvidia\cuda\include\vector_functions.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\texture_fetch_functions.h
+d:\secondary program files\nvidia\cuda\include\builtin_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\surface_types.h
+d:\secondary program files\nvidia\cuda\include\texture_types.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\cuda_texture_types.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+d:\secondary program files\nvidia\cuda\include\texture_types.h
+d:\secondary program files\nvidia\cuda\include\vector_functions.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\texture_indirect_functions.h
+d:\secondary program files\nvidia\cuda\include\builtin_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\surface_types.h
+d:\secondary program files\nvidia\cuda\include\texture_types.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+d:\secondary program files\nvidia\cuda\include\vector_functions.h
+d:\secondary program files\nvidia\cuda\include\surface_indirect_functions.h
+d:\secondary program files\nvidia\cuda\include\builtin_types.h
+d:\secondary program files\nvidia\cuda\include\device_types.h
+d:\secondary program files\nvidia\cuda\include\driver_types.h
+d:\secondary program files\nvidia\cuda\include\surface_types.h
+d:\secondary program files\nvidia\cuda\include\texture_types.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+d:\secondary program files\nvidia\cuda\include\host_defines.h
+d:\secondary program files\nvidia\cuda\include\vector_functions.h
+d:\secondary program files\nvidia\cuda\include\device_launch_parameters.h
+d:\secondary program files\nvidia\cuda\include\vector_types.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\stdio.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\crtdefs.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\swprintf.inl
+D:\Secondary Program Files\VisualStudio2013\VC\include\iostream
+D:\Secondary Program Files\VisualStudio2013\VC\include\istream
+D:\Secondary Program Files\VisualStudio2013\VC\include\ostream
+D:\Secondary Program Files\VisualStudio2013\VC\include\ios
+D:\Secondary Program Files\VisualStudio2013\VC\include\xlocnum
+D:\Secondary Program Files\VisualStudio2013\VC\include\climits
+D:\Secondary Program Files\VisualStudio2013\VC\include\cstdio
+D:\Secondary Program Files\VisualStudio2013\VC\include\streambuf
+D:\Secondary Program Files\VisualStudio2013\VC\include\xiosbase
+D:\Secondary Program Files\VisualStudio2013\VC\include\xlocale
+D:\Secondary Program Files\VisualStudio2013\VC\include\cstring
+D:\Secondary Program Files\VisualStudio2013\VC\include\stdexcept
+D:\Secondary Program Files\VisualStudio2013\VC\include\exception
+D:\Secondary Program Files\VisualStudio2013\VC\include\xstddef
+D:\Secondary Program Files\VisualStudio2013\VC\include\cstddef
+D:\Secondary Program Files\VisualStudio2013\VC\include\initializer_list
+D:\Secondary Program Files\VisualStudio2013\VC\include\eh.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\crtdefs.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\malloc.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\crtdefs.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\xstring
+D:\Secondary Program Files\VisualStudio2013\VC\include\xmemory0
+D:\Secondary Program Files\VisualStudio2013\VC\include\limits
+D:\Secondary Program Files\VisualStudio2013\VC\include\ymath.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\cfloat
+D:\Secondary Program Files\VisualStudio2013\VC\include\float.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\crtdefs.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\crtwrn.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\crtdefs.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\cwchar
+D:\Secondary Program Files\VisualStudio2013\VC\include\wchar.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\crtdefs.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\new
+D:\Secondary Program Files\VisualStudio2013\VC\include\xutility
+D:\Secondary Program Files\VisualStudio2013\VC\include\utility
+D:\Secondary Program Files\VisualStudio2013\VC\include\iosfwd
+D:\Secondary Program Files\VisualStudio2013\VC\include\crtdbg.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\crtdefs.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\type_traits
+D:\Secondary Program Files\VisualStudio2013\VC\include\xrefwrap
+D:\Secondary Program Files\VisualStudio2013\VC\include\xatomic0.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\intrin.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\crtdefs.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\setjmp.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\crtdefs.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\immintrin.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\wmmintrin.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\nmmintrin.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\smmintrin.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\tmmintrin.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\pmmintrin.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\emmintrin.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\xmmintrin.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\mmintrin.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\crtdefs.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\ammintrin.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\mm3dnow.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\crtdefs.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\typeinfo
+D:\Secondary Program Files\VisualStudio2013\VC\include\xlocinfo
+D:\Secondary Program Files\VisualStudio2013\VC\include\xlocinfo.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\ctype.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\crtdefs.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\locale.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\crtdefs.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\xdebug
+D:\Secondary Program Files\VisualStudio2013\VC\include\xfacet
+D:\Secondary Program Files\VisualStudio2013\VC\include\system_error
+D:\Secondary Program Files\VisualStudio2013\VC\include\cerrno
+D:\Secondary Program Files\VisualStudio2013\VC\include\errno.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\crtdefs.h
+D:\Secondary Program Files\VisualStudio2013\VC\include\share.h
+D:\Secondary Program Files\NVIDIA\CUDA\include\cuda.h
+D:\Secondary Program Files\NVIDIA\CUDA\include\cuda_runtime.h

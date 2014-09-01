@@ -11,6 +11,8 @@ __global__ void add(int a, int b, int *c)
 
 int main(int argc, char* agrv[])
 {
+	int wait;
+	
 	int host_c;
 	int *dev_c;
 
@@ -21,5 +23,6 @@ int main(int argc, char* agrv[])
 	std::cout << "2 + 7 = " << host_c << std::endl;
 	cudaFree(dev_c);
 
+	std::cin >> wait;
 	return 0;
 } //if rename a cpp file to a cu file, right click file to make sure it is being treated as a cu file!!!
